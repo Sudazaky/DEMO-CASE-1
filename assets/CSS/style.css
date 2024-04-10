@@ -730,6 +730,17 @@
         font-size: 16px;
     }
 }
+
+@media screen and (max-width: 362.98px) {
+    .section-five .inner-list .inner-item span {
+        font-size: 10px;
+        left: 39px;
+    }
+
+    .section-five .inner-list .inner-item i {
+        font-size: 13px;
+    }
+}
 /* End Section Five */
 
 /* Section Six */
